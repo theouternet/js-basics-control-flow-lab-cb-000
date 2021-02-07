@@ -1,4 +1,4 @@
-let scuberGreetingForFeet(dist) {
+function scuberGreetingForFeet(dist) {
   if (dist < 200) {
     return 'This one is on me!'
   }
