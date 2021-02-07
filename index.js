@@ -5,6 +5,8 @@ let scuberGreetingForFeet(dist) {
   else if (dist > 2000) {
     return 'I will gladly take your thirty bucks.'
   }
-  
+  else if (dist > 2500) {
+    
+  }
   
 }
